@@ -1,0 +1,38 @@
+[
+  {
+    "invoice_id": "inv_1001",
+    "company": "ABC Company",
+    "invoice_number": "ABC-2026-041",
+    "invoice_date": "2026-10-02",
+    "due_date": "2026-10-30",
+    "amount": 25000.00,
+    "currency": "INR",
+    "status": "received",
+    "file_name": "ABC_Company_Invoice_041.json",
+    "description": "Cloud infrastructure services for September 2026"
+  },
+  {
+    "invoice_id": "inv_1002",
+    "company": "ABC Company",
+    "invoice_number": "ABC-2026-038",
+    "invoice_date": "2026-09-12",
+    "due_date": "2026-10-12",
+    "amount": 18200.00,
+    "currency": "INR",
+    "status": "received",
+    "file_name": "ABC_Company_Invoice_038.json",
+    "description": "Cloud infrastructure services for August 2026"
+  },
+  {
+    "invoice_id": "inv_2001",
+    "company": "Northstar Labs",
+    "invoice_number": "NS-INV-882",
+    "invoice_date": "2026-10-04",
+    "due_date": "2026-11-03",
+    "amount": 48750.00,
+    "currency": "INR",
+    "status": "received",
+    "file_name": "Northstar_Invoice_882.json",
+    "description": "Data engineering consulting"
+  }
+]

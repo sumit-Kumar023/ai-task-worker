@@ -1,0 +1,1 @@
+"""CompanyPilot autonomous task worker."""
